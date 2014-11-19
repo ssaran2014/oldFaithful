@@ -6,5 +6,5 @@ This is the code written for the partial fulfilment of the course project requir
 This project makes use of one of the standard datasets available in R. Please see the following: 
 http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/faithful.html
 
-The plot is taken from the website. The regression and the simple fit line is my own. 
+The plot is taken from the website. The regression and the simple fit line are my own. 
 
